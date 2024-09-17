@@ -1,6 +1,6 @@
 # EECS 565 - Intro to Computer and Information Security
 
-Taken with [Fengjun Li](https://ittc.ku.edu/~fli/) in Fall 2024.
+Taken with [Fengjun Li](http://web.archive.org/web/20240917163019/https://ittc.ku.edu/~fli/) in Fall 2024.
 
 ## Lab Grades
 
