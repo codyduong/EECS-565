@@ -4,12 +4,12 @@ Taken with [Fengjun Li](http://web.archive.org/web/20240917163019/https://ittc.k
 
 ## Lab Grades
 
-| Lab                                                    | Grade               |
-| ------------------------------------------------------ | ------------------- |
-| [MP 1: Vigenère Cipher and Password Cracker](/MP1.pdf) | N/A (not completed) |
-| [4]()                                                  |                     |
-| [5]()                                                  |                     |
-| [6]()                                                  |                     |
-| [7]()                                                  |                     |
-| [8]()                                                  |                     |
-| [9]()                                                  |                     |
+| Lab                                                    | Grade |
+| ------------------------------------------------------ | ----- |
+| [MP 1: Vigenère Cipher and Password Cracker](/MP1.pdf) | 100%  |
+| [4]()                                                  |       |
+| [5]()                                                  |       |
+| [6]()                                                  |       |
+| [7]()                                                  |       |
+| [8]()                                                  |       |
+| [9]()                                                  |       |
